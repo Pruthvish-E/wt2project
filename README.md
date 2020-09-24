@@ -1,7 +1,11 @@
-An online chess game created uding vanilla javascript and ExpressJS/MongoDB.
+An online multiplayer gaming website created using MEAN.
 Requirements:
 -Mongodb
 -NodeJS
+-Angular
+-Express
+-Python for testing
+-Selenium
 
 Instructions to run the game:
 
